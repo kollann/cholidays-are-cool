@@ -1,0 +1,1 @@
+"use strict";import Core_View from"../core/core.spa-view.js?v=0.11";export default class LoginView extends Core_View{constructor(i,e){super(i,e)}init(){super.init(),$("#login-submit").unbind("click").on("click",(function(i){i.preventDefault(),window.location.hash="/"}))}}
