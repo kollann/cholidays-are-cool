@@ -6,6 +6,11 @@
 see https://gulpjs.com/docs/en/getting-started/quick-start
 
 ## install plugins
+
+gulp-jshint
+
+    npm install jshint gulp-jshint --save-dev
+
 gulp-concat
     
     npm install --save-dev gulp-concat
