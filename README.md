@@ -32,6 +32,10 @@ gulp-image
     npm install --save-dev gulp-image
 
 ## run plugins
+gulp-jshint
+
+    gulp lint
+
 gulp-concat
     
     gulp concat
